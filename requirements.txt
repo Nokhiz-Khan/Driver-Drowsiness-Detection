@@ -1,1 +1,5 @@
+# Driver Drowsiness Detection System — Dependencies
 
+ultralytics==8.4.143      # YOLOv8 model loading, training, and inference
+opencv-python==5.0.0.93   # Webcam access, image processing, and display
+numpy>=1.23.0             # Array operations (required by OpenCV/Ultralytics)
