@@ -2,7 +2,7 @@
 
 Real-time Driver Drowsiness Detection System that watches a live webcam feed and catches dangerous eye closures before they become accidents. Powered by a fine-tuned YOLOv8n model trained on an eye-state dataset, it fires instant visual + audio alerts when eyes stay shut for 6+ seconds — turning simple computer vision into real road safety.
 
-![Demo](images/demo.png)
+![Demo](image/demo.png)
 
 ## Features
 
